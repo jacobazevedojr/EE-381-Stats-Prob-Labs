@@ -31,5 +31,5 @@ plt.stem(bins, results[1:])
 plt.title("10,000 rolls of N-sided die")
 plt.xlabel('Value of Die Face')
 plt.ylabel('Times Value was Rolled')
-plt.savefig('problem1.png')
+plt.show()
 
